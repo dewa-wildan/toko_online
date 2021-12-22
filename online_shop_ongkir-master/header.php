@@ -93,7 +93,7 @@ if($file == "checkout.php"){
 					<!-- Logo -->
 					<div class="header-logo">
 						<a class="logo" href="#">
-							<img src="frontend/img/logo.png" alt="">
+							<img src="frontend/img/bucket.png" alt="">
 						</a>
 					</div>
 					<!-- /Logo -->
